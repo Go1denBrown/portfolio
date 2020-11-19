@@ -1,0 +1,12 @@
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\bin\Debug\UchotRashodov.exe.config
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\bin\Debug\UchotRashodov.exe
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\bin\Debug\UchotRashodov.pdb
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.csprojAssemblyReference.cache
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.Form1.resources
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.Properties.Resources.resources
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.csproj.GenerateResource.cache
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.exe
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.pdb
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.Pin.resources
+C:\Users\EGOR\Desktop\Диплом\UchotRashodov\obj\Debug\UchotRashodov.Sprav.resources
